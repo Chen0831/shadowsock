@@ -18,8 +18,8 @@
     "protocol_param": "",
     "obfs": "tls1.2_ticket_auth_compatible",
     "obfs_param": "",
-    "dns_ipv6": true,
+    "dns_ipv6": false,
     "redirect": "",
-    "fast_open": true,
+    "fast_open": false,
     "workers": 1
 }
